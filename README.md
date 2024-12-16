@@ -40,7 +40,7 @@ En el fútbol moderno, comprender el rendimiento de los jugadores es clave para 
 
 ## Ingeniería de Características
 - **Variables creadas**:
-  - "Días sin marcar
+  - "Días sin marcar"
   - Clasificación del oponente (preferido, normal, difícil).
   - Transformación de "Venue" a binario (local/visitante).
   - ¿Fue el gol del 1 a 0?

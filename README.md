@@ -1,4 +1,3 @@
-# Final_Proyect_Messi
 # README: Análisis y Modelado de Goles de Messi en Clubes
 
 ## Tabla de Contenidos
